@@ -29,7 +29,7 @@ function NevbarSection(){
       <nav className='w-full h-28 flex items-center justify-between fixed top-10 left-0 z-50 bg-white shadow-md px-6'>
         
         <div className='flex items-center h-25'>
-          <img src="/public/waffle-house-logo.svg" alt="Logo" />
+          <img src="/waffle-house-logo.svg" alt="Logo" />
         </div>
 
        

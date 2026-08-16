@@ -6,8 +6,8 @@ const GiftCards = () => {
     <>
 
     <div className='w-full h-auto mt-38 relative '>
-        <img src="/gift-card-hero-desktop@2x.jpg" alt="" />
-       <img className='absolute w-90   top-0 left-0' src="/imgi_43_title-overlay-bg@2x.png" alt="" />
+        <img src="/gift-card-hero-desktop@2x.webp" alt="" />
+       <img className='absolute w-90   top-0 left-0' src="/imgi_43_title-overlay-bg@2x.webp" alt="" />
        <h1 className='absolute text-black text-3xl tracking-wide font-bold font-serif top-8 left-8'>GIFT CARDS</h1>
     </div>
       
@@ -20,7 +20,7 @@ const GiftCards = () => {
           
           <div className='w-240 h-auto mt-10 flex justify-end relative   flex-col '>
 
-            <img src="/imgi_14_gift-card-block-bg2@2x.jpg" alt="" />
+            <img src="/imgi_14_gift-card-block-bg2@2x.webp" alt="" />
 
             <div className='w-130 absolute top-0 right-0  border-4 border-t-0  border-l-0 border-r-0 border-b-white h-35 flex items-center space-x-7 '>
              <div className='w-15 h-15 border-2 border-black flex justify-center cursor-pointer items-center rounded-full '><i class="fa-solid fa-2xl fa-dollar-sign "></i></div>

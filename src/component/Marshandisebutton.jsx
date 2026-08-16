@@ -5,8 +5,8 @@ const Marshandisebutton = () => {
   return (
    <>
    <div className='w-full h-auto relative mt-38'>
-     <img src="/imgi_21_merchandise-hero-desktop@2x.jpg" alt="" />
-     <img className='absolute top-0 left-0 w-90' src="/imgi_43_title-overlay-bg@2x.png" alt="" />
+     <img src="/imgi_21_merchandise-hero-desktop@2x.webp" alt="" />
+     <img className='absolute top-0 left-0 w-90' src="/imgi_43_title-overlay-bg@2x.webp" alt="" />
      <h1 className='absolute top-8 left-9 text-3xl font-bold'>MARSHANDISE</h1>
    </div>
 
@@ -24,20 +24,20 @@ const Marshandisebutton = () => {
     <div className='w-250 h-auto flex items-center gap-x-12 mt-10 '>
 
       <div className='w-auto h-auto  group  flex items-center relative flex-col justify-center gap-y-5'>
-       <img className='object-cover border-4 border-blue-400  rounded-full transition-transform duration-700 ease-in-out hover:-translate-y-1' src="/imgi_14_seasonal-merchandise@2x1-150x150.jpg" alt="" />
-       <img className='group-hover:bg-red-700 ease-in-out transition-all inset-0 ' src="/imgi_28_merch-btn@2x.png" alt="" />
+       <img className='object-cover border-4 border-blue-400  rounded-full transition-transform duration-700 ease-in-out hover:-translate-y-1' src="/imgi_14_seasonal-merchandise@2x1-150x150.webp" alt="" />
+       <img className='group-hover:bg-red-700 ease-in-out transition-all inset-0 ' src="/imgi_28_merch-btn@2x.webp" alt="" />
        <h1 className='absolute top-48 font-bold text-xl left-19   transition-all ease-in-out duration-300'>SEASONAL</h1>
       </div>
 
       <div className='w-auto h-auto group flex items-center relative flex-col justify-center gap-y-5'>
-       <img className='object-cover  border-4 border-blue-400 w-40  rounded-full transition-transform duration-700 ease-in-out hover:-translate-y-1' src="/imgi_15_FoodItems_WebsiteThumbnail.jpg" alt="" />
-       <img className="group-hover:bg-red-700 ease-in-out transition-all inset-0" src="/imgi_28_merch-btn@2x.png" alt="" />
+       <img className='object-cover  border-4 border-blue-400 w-40  rounded-full transition-transform duration-700 ease-in-out hover:-translate-y-1' src="/imgi_15_FoodItems_WebsiteThumbnail.webp" alt="" />
+       <img className="group-hover:bg-red-700 ease-in-out transition-all inset-0" src="/imgi_28_merch-btn@2x.webp" alt="" />
        <h1 className='absolute top-48 font-bold text-xl left-19  transition-all ease-in-out duration-300'>FOOD ITEMS</h1>
       </div>
 
       <div className='w-auto h-auto  group flex items-center relative flex-col justify-center gap-y-5'>
-       <img className='object-cover border-4 border-blue-400  rounded-full transition-transform duration-700 ease-in-out hover:-translate-y-1' src="/imgi_16_adult-apparel@2x1-150x150.jpg" alt="" />
-       <img className="group-hover:bg-red-700 ease-in-out transition-all inset-0" src="/imgi_28_merch-btn@2x.png" alt="" />
+       <img className='object-cover border-4 border-blue-400  rounded-full transition-transform duration-700 ease-in-out hover:-translate-y-1' src="/imgi_16_adult-apparel@2x1-150x150.webp" alt="" />
+       <img className="group-hover:bg-red-700 ease-in-out transition-all inset-0" src="/imgi_28_merch-btn@2x.webp" alt="" />
        <h1 className='absolute top-48 font-bold text-xl left-19  transition-all ease-in-out duration-300'>ADDULT APPAREL</h1>
       </div>
       
@@ -48,20 +48,20 @@ const Marshandisebutton = () => {
     <div className='w-250 h-auto  flex justify-start gap-x-12 mt-10 '>
 
       <div className='w-auto h-auto  group  flex items-center relative flex-col justify-center gap-y-5'>
-       <img className='object-cover border-4 border-blue-400  rounded-full transition-transform duration-700 ease-in-out hover:-translate-y-1' src="/imgi_17_youth-apparel@2x1-150x150.jpg" alt="" />
-       <img  className="group-hover:bg-red-700 ease-in-out transition-all inset-0" src="/imgi_28_merch-btn@2x.png" alt="" />
+       <img className='object-cover border-4 border-blue-400  rounded-full transition-transform duration-700 ease-in-out hover:-translate-y-1' src="/imgi_17_youth-apparel@2x1-150x150.webp" alt="" />
+       <img  className="group-hover:bg-red-700 ease-in-out transition-all inset-0" src="/imgi_28_merch-btn@2x.webp" alt="" />
        <h1 className='absolute top-48 font-bold text-xl left-19  transition-all ease-in-out duration-300'>YOUTH APPAREL</h1>
       </div>
 
       <div className='w-auto h-auto  group  flex items-center relative flex-col justify-center gap-y-5'>
-       <img className='object-cover border-4 border-blue-400  rounded-full transition-transform duration-700 ease-in-out hover:-translate-y-1' src="/imgi_18_headwear@2x1-150x150.jpg" alt="" />
-       <img  className="group-hover:bg-red-700 ease-in-out transition-all inset-0" src="/imgi_28_merch-btn@2x.png" alt="" />
+       <img className='object-cover border-4 border-blue-400  rounded-full transition-transform duration-700 ease-in-out hover:-translate-y-1' src="/imgi_18_headwear@2x1-150x150.webp" alt="" />
+       <img  className="group-hover:bg-red-700 ease-in-out transition-all inset-0" src="/imgi_28_merch-btn@2x.webp" alt="" />
        <h1 className='absolute top-48 font-bold text-xl left-19  transition-all ease-in-out duration-300'>HEADWEAR</h1>
       </div>
 
       <div className='w-auto h-auto  group  flex items-center relative flex-col justify-center gap-y-5'>
-       <img className='object-cover border-4 border-blue-400  rounded-full transition-transform duration-700 ease-in-out hover:-translate-y-1' src="/imgi_19_accessories@2x1-150x150.jpg" alt="" />
-       <img className="group-hover:bg-red-700 ease-in-out transition-all inset-0" src="/imgi_28_merch-btn@2x.png" alt="" />
+       <img className='object-cover border-4 border-blue-400  rounded-full transition-transform duration-700 ease-in-out hover:-translate-y-1' src="/imgi_19_accessories@2x1-150x150.webp" alt="" />
+       <img className="group-hover:bg-red-700 ease-in-out transition-all inset-0" src="/imgi_28_merch-btn@2x.webp" alt="" />
        <h1 className='absolute top-48 font-bold text-xl left-19 transition-all ease-in-out duration-300'>ACCESSORIES</h1>
       </div>
       

@@ -6,7 +6,7 @@ const Cateringbutton = () => {
    <>
 
    <div className='w-full h-auto overflow-hidden pt-38'>
-    <img className='w-full h-full object-cover' src="/imgi_36_default.png" alt="" />
+    <img className='w-full h-full object-cover' src="/imgi_36_default.webp" alt="" />
    </div>
 
     <div className='w-full flex justify-center h-auto '>

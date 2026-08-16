@@ -87,7 +87,7 @@ const FormSection = () => {
           </p>
           <div className="flex h-60 w-100 overflow-hidden border">
             <div className="w-3/4 h-full">
-              <img src="/imgi_50_jukebox-desktop@2x.jpg" alt="Jukebox" className="w-full h-full object-cover" />
+              <img src="/imgi_50_jukebox-desktop@2x.webp" alt="Jukebox" className="w-full h-full object-cover" />
             </div>
             <div className="w-1/4 h-full bg-yellow-400 flex flex-col items-center justify-center gap-7 ">
               <div className="w-10 h-10 rounded-full bg-black flex items-center justify-center pointer-events-auto cursor-pointer">
@@ -129,7 +129,7 @@ const FormSection = () => {
           </p>
           <div
             className="w-100 h-72 p-6 flex flex-col gap-4 bg-cover bg-center text-sm"
-            style={{ backgroundImage: "url('/imgi_52_perks-form.jpg')" }}
+            style={{ backgroundImage: "url('/imgi_52_perks-form.webp')" }}
           >
             <input 
               type="text"

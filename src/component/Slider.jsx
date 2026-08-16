@@ -1,10 +1,10 @@
 import React, { useState } from "react";
 
 const slides = [
-  { id: 1, title: "Blueberry Waffle", image: "/imgi_20_all-star.jpg" },
-  { id: 2, title: "All-Star Special", image: "/imgi_21_simply-resize_Page_1.jpg" },
-  { id: 3, title: "Simply Beverages", image: "/imgi_19_blueberrywaffleresize-8.jpg" },
-  { id: 4, title: "TRY OUR PECAN WAFFLE", image: "/imgi_18_pecanwaffle@2x.jpg" },
+  { id: 1, title: "Blueberry Waffle", image: "/imgi_20_all-star.webp" },
+  { id: 2, title: "All-Star Special", image: "/imgi_21_Star_Special.webp" },
+  { id: 3, title: "Simply Beverages", image: "/imgi_19_blueberrywaffleresize-8.webp" },
+  { id: 4, title: "TRY OUR PECAN WAFFLE", image: "/imgi_18_pecanwaffle@2x.webp" },
 
 ];
 

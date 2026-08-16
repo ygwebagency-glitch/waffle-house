@@ -2,10 +2,10 @@ import React from 'react'
 import { useState } from 'react'
 
 const slides=[
-    {id:1 , title:"Blurberry Waffle",      image:"/imgi_20_all-star.jpg"},
-    {id:2 , title:"All-Star special",      image:"/imgi_21_simply-resize_Page_1.jpg"},
-    {id:3 , title:"Simply Beverages",      image:"/imgi_19_blueberrywaffleresize-8.jpg"},
-    {id:4 , title:"Try our Pecan Waffle",  image:"/imgi_18_pecanwaffle@2x.jpg"}
+    {id:1 , title:"Blurberry Waffle",      image:"/imgi_20_all-star.webp"},
+    {id:2 , title:"All-Star special",      image:"/imgi_21_simply-resize_Page_1.webp"},
+    {id:3 , title:"Simply Beverages",      image:"/imgi_19_blueberrywaffleresize-8.webp"},
+    {id:4 , title:"Try our Pecan Waffle",  image:"/imgi_18_pecanwaffle@2x.webp"}
     ]
 
  const Slider=()=>{

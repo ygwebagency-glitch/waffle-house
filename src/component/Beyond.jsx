@@ -5,8 +5,8 @@ const Beyond = () => {
   return (
     <>
     <div className='w-full h-auto mt-38 relative'>
-      <img className='' src="/imgi_36_product-stories-hero-desktop@2x.jpg" alt="" />
-      <img className='top-0 w-110 h-21 transform transition-transform scale-x-110 left-0 absolute' src="/imgi_43_title-overlay-bg@2x.png" alt="" />
+      <img className='' src="/imgi_36_product-stories-hero-desktop@2x.webp" alt="" />
+      <img className='top-0 w-110 h-21 transform transition-transform scale-x-110 left-0 absolute' src="/imgi_43_title-overlay-bg@2x.webp" alt="" />
       <h1 className='absolute top-9 left-7 font-bold text-4xl font-sans'>BEYOND THE MENU</h1>
     </div>
     <div className='w-full h-auto  flex justify-center mt-16'>
@@ -162,7 +162,7 @@ const Beyond = () => {
 
 
          <div className='border-4 rounded-full w-90 border-yellow-400 overflow-hidden'>
-          <img className='w-40 cursor-pointer hover:scale-110 transition-all ease-in-out duration-300 rounded-full' src="/imgi_27_waffle-thumbnail.jpg" alt="" />
+          <img className='w-40 cursor-pointer hover:scale-110 transition-all ease-in-out duration-300 rounded-full' src="/imgi_27_waffle-thumbnail.webp" alt="" />
           </div> 
 
          <div className='pl-4 space-y-4'>
@@ -177,7 +177,7 @@ const Beyond = () => {
 
 
          <div className='border-4 rounded-full w-90 border-yellow-400 overflow-hidden'>
-          <img className='w-40 cursor-pointer hover:scale-110 transition-all ease-in-out duration-300 rounded-full' src="/imgi_28_Thumbnail.jpg" alt="" />
+          <img className='w-40 cursor-pointer hover:scale-110 transition-all ease-in-out duration-300 rounded-full' src="/imgi_28_Thumbnail.webp" alt="" />
           </div> 
 
          <div className='pl-4 space-y-4'>
@@ -192,7 +192,7 @@ const Beyond = () => {
 
 
          <div className='border-4  rounded-full w-90 h-auto border-yellow-400 overflow-hidden'>
-          <img className='w-full cursor-pointer hover:scale-110 transition-all ease-in-out duration-300 h-full object-cover  rounded-full' src="/imgi_21_dinner-sides-sorting@2x.jpg" alt="" />
+          <img className='w-full cursor-pointer hover:scale-110 transition-all ease-in-out duration-300 h-full object-cover  rounded-full' src="/imgi_21_dinner-sides-sorting@2x.webp" alt="" />
           </div> 
 
          <div className='pl-4 space-y-4 '>
@@ -210,7 +210,7 @@ const Beyond = () => {
 
 
          <div className='border-4 rounded-full w-90 border-yellow-400 overflow-hidden'>
-          <img className='w-40 cursor-pointer hover:scale-110 transition-all ease-in-out duration-300 rounded-full' src="/imgi_30_eggs2.jpg" alt="" />
+          <img className='w-40 cursor-pointer hover:scale-110 transition-all ease-in-out duration-300 rounded-full' src="/imgi_30_eggs2.webp" alt="" />
           </div> 
 
          <div className='pl-4 space-y-4'>
@@ -226,7 +226,7 @@ const Beyond = () => {
 
 
          <div className='border-4 rounded-full w-90 h-auto border-yellow-400 overflow-hidden'>
-          <img className='w-full cursor-pointer hover:scale-110 transition-all ease-in-out duration-300 h-full object-cover rounded-full ' src="/milk-post-header@2x.jpg" alt="" />
+          <img className='w-full cursor-pointer hover:scale-110 transition-all ease-in-out duration-300 h-full object-cover rounded-full ' src="/milk-post-header@2x.webp" alt="" />
           </div> 
 
          <div className='pl-4 space-y-4'>
@@ -243,7 +243,7 @@ const Beyond = () => {
 
 
          <div className='border-4 rounded-full w-90 bg-amber-900 border-yellow-400 overflow-hidden'>
-          <img className='w-40 cursor-pointer hover:scale-110 transition-all ease-in-out duration-300 rounded-full' src="/imgi_32_coffee.png" alt="" />
+          <img className='w-40 cursor-pointer hover:scale-110 transition-all ease-in-out duration-300 rounded-full' src="/imgi_32_coffee.webp" alt="" />
           </div> 
 
          <div className='pl-4 space-y-4'>
@@ -260,7 +260,7 @@ const Beyond = () => {
 
 
          <div className='border-4 rounded-full w-90 border-yellow-400 overflow-hidden'>
-          <img className='w-40 cursor-pointer hover:scale-110 transition-all ease-in-out duration-300 rounded-full' src="/imgi_33_thumbnail.jpg" alt="" />
+          <img className='w-40 cursor-pointer hover:scale-110 transition-all ease-in-out duration-300 rounded-full' src="/imgi_33_thumbnail.webp" alt="" />
           </div> 
 
          <div className='pl-4 space-y-4'>
@@ -277,7 +277,7 @@ const Beyond = () => {
 
 
          <div className='border-4 rounded-full w-90 border-yellow-400 overflow-hidden'>
-          <img className='w-40 cursor-pointer hover:scale-110 transition-all ease-in-out duration-300  rounded-full' src="/imgi_34_chickenthumb.jpg" alt="" />
+          <img className='w-40 cursor-pointer hover:scale-110 transition-all ease-in-out duration-300  rounded-full' src="/imgi_34_chickenthumb.webp" alt="" />
           </div> 
 
          <div className='pl-4 space-y-4'>

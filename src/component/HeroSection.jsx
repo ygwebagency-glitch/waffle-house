@@ -4,9 +4,9 @@ const HeroSection = () => {
   const [current, setCurrent] = useState(0);
    
   const images = [
-    "/imgi_31_Madeline-front-page-14.jpg",
+    "/imgi_31_Madeline-front-page-14.webp",
     "/imgi_30_Top-Banner2-2.jpg",
-    "/imgi_28_header_2.jpg",
+    "/imgi_28_header_2.webp",
   ];
 
   useEffect(() => {
